@@ -8,5 +8,5 @@ bootstrap-example1 :point_right: BootStrap CSS
 
 bootstrap-example2 :point_right: BootStrap Comonents
 
-![1561689736446](assets/1561689736446.png)
+![1561702667888](assets/1561702667888.png)
 
